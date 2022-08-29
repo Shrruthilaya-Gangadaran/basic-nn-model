@@ -6,13 +6,7 @@ To develop a neural network regression model for the given dataset.
 
 ## THEORY
 
-The Neural network model contains input layer,two hidden layers and output layer. Input layer contains
-2 single neuron. Output layer also contains two neuron.First hidden layer contains four neurons and
-second hidden layer contains three neurons. A neuron in input layer is connected with every neurons in a
-first hidden layer. Similarly, each neurons in first hidden layer is connected with all neurons in second
-hidden layer. All neurons in second hidden layer is connected with output layered neuron. Relu
-activation function is used here. It is linear neural network model(single input neuron forms single
-output neuron).
+The Neural Network model is a composition of Input layer, Hidden layers and Output layer. The below given model consists of 1 input layer, 2 hidden layers and 1 output layer. The input layer has 2 inputs in which the each inputs are linked to each of the units in the hidden layer 1 and each of the units in the hidden layer 1 is linked to that of the units in the hidden layer 2. And all those units of the 2nd hidden layer is linked to the outputs in the output layer. By the implementation of ReLU function, the below model is worked out.
 
 ## Neural Network Model
 
