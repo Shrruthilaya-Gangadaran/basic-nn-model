@@ -115,5 +115,6 @@ ai_brain.predict(Xn11)
 
 ![](newprediction.png)
 
+
 ## RESULT
 Thus, the neural network model regression model for the given dataset is developed.
